@@ -30,7 +30,7 @@
   height: 300px;
   width: 300px;
   border-radius: 40px;
-  background: rgb(5, 7, 37) url(../props/img3.jpg);
+  background: rgb(5, 7, 37) url(../../Images/img5.jpg);
   background-size: cover;
   background-position: center;
   border: 2px solid var(--color-sec-light);
@@ -103,7 +103,7 @@
     height: 100px;
     width: 100px;
     border-radius: 50%;
-    background: rgb(5, 7, 37) url(../props/img3.jpg);
+    background: rgb(5, 7, 37) url(../../Images/img5.jpg);
     background-size: cover;
     background-position: center;
     border: 2px solid var(--color-sec-light);
@@ -175,7 +175,7 @@
     height: 70px;
     width: 70px;
     border-radius: 50%;
-    background: rgb(5, 7, 37) url(../props/img3.jpg);
+    background: rgb(5, 7, 37) url(../../Images/img5.jpg);
     background-size: cover;
     background-position: center;
     border: 2px solid var(--color-sec-light);
@@ -247,7 +247,7 @@
     height: 70px;
     width: 70px;
     border-radius: 50%;
-    background: rgb(5, 7, 37) url(../props/img3.jpg);
+    background: rgb(5, 7, 37) url(../../Images/img5.jpg);
     background-size: cover;
     background-position: center;
     border: 2px solid var(--color-sec-light);
@@ -320,7 +320,7 @@
     height: 70px;
     width: 70px;
     border-radius: 50%;
-    background: rgb(5, 7, 37) url(../props/img3.jpg);
+    background: rgb(5, 7, 37) url(../../Images/img5.jpg);
     background-size: cover;
     background-position: center;
     border: 2px solid var(--color-sec-light);
@@ -393,7 +393,7 @@
     height: 70px;
     width: 70px;
     border-radius: 50%;
-    background: rgb(5, 7, 37) url(../props/img3.jpg);
+    background: rgb(5, 7, 37) url(../../Images/img5.jpg);
     background-size: cover;
     background-position: center;
     border: 2px solid var(--color-sec-light);

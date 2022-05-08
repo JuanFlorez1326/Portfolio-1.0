@@ -8,7 +8,7 @@
   display: flex;
   justify-content: flex-start;
   align-items: center;
-  height: 80%;
+  height: 90%;
   width: 90%;
   overflow-x: scroll;
   overflow-y: hidden;
@@ -45,48 +45,48 @@
 }
 
 .qualifications-container .qualification .content.html {
-  background: rgba(255, 255, 255, 0.103) url(../props/html.png);
+  background: rgba(255, 255, 255, 0.103) url(../../Images/html.png);
   background-position: center;
   background-size: 66px;
 }
 .qualifications-container .qualification .content.css {
-  background: rgba(255, 255, 255, 0.103) url(../props/css.png);
+  background: rgba(255, 255, 255, 0.103) url(../../Images/css.png);
   background-position: center;
   background-size: cover;
   background-size: 66px;
 }
 .qualifications-container .qualification .content.javascript {
-  background: rgba(255, 255, 255, 0.103) url(../props/js.jpg);
+  background: rgba(255, 255, 255, 0.103) url(../../Images/js.jpg);
   background-position: center;
   background-size: cover;
   background-size: 90px;
 }
 .qualifications-container .qualification .content.bootstrap {
-  background: rgba(255, 255, 255, 0.103) url(../props/bootstrap.png);
+  background: rgba(255, 255, 255, 0.103) url(../../Images/bootstrap.png);
   background-position: center;
   background-size: cover;
   background-size: 66px;
 }
 .qualifications-container .qualification .content.react {
-  background: rgba(255, 255, 255, 0.103) url(../props/react.png);
+  background: rgba(255, 255, 255, 0.103) url(../../Images/react.png);
   background-position: center;
   background-size: cover;
   background-size: 66px;
 }
-.qualifications-container .qualification .content.c-plus-plus {
-  background: rgba(255, 255, 255, 0.103) url(../props/c-plus-plus.png);
+.qualifications-container .qualification .content.python {
+  background: rgba(255, 255, 255, 0.103) url(../../Images/python.png);
   background-position: center;
   background-size: cover;
   background-size: 66px;
 }
 .qualifications-container .qualification .content.c-sharp {
-  background: rgba(255, 255, 255, 0.103) url(../props/c-sharp.png);
+  background: rgba(255, 255, 255, 0.103) url(../../Images/c-sharp.png);
   background-position: center;
   background-size: cover;
   background-size: 66px;
 }
 .qualifications-container .qualification .content.kotlin {
-  background: rgba(255, 255, 255, 0.103) url(../props/kotlin.png);
+  background: rgba(255, 255, 255, 0.103) url(../../Images/kotlin.png);
   background-position: center;
   background-size: cover;
   background-size: 66px;

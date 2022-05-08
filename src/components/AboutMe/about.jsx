@@ -1,6 +1,6 @@
 import "./about.css"
 import React from "react"
-import { Qualifications } from "../qualifications/qualifications"
+import { Qualifications } from "../Skills/qualifications"
 
 export const About = () => {
   return (
