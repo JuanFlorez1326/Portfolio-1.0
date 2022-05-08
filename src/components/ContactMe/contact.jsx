@@ -19,7 +19,7 @@ export const  Contact = () => {
           <h2>WhatsApp <span>+57 313 706 6248</span></h2>
         </a>
 
-        <a href="https://www.instagram.com/juanflorez13/" className="contact instagram">
+        <a href="https://www.instagram.com/juanflorez13/" className="contact instagram" target={"blank"}>
           <AiOutlineInstagram className="icon" />
           <h2>Instagram <span>JuanFlorez1326</span></h2>
         </a>

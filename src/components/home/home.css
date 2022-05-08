@@ -61,7 +61,7 @@
 }
 
 .home-container .logo .hover-show.active .circle:nth-child(1) {
-  background: url(../props/html.png);
+  background: url(../../Images/html.png);
   background-size: cover;
   background-position: center;
   position: absolute;
@@ -70,49 +70,49 @@
 .home-container .logo .hover-show.active .circle:nth-child(2) {
   position: absolute;
   transform: translateX(150%) translateY(-150%);
-  background: url(../props/css.png);
+  background: url(../../Images/css.png);
   background-size: cover;
   background-position: center;
 }
 .home-container .logo .hover-show.active .circle:nth-child(3) {
   position: absolute;
   transform: translateX(210%);
-  background: url(../props/js.jpg);
+  background: url(../../Images/js.jpg);
   background-size: cover;
   background-position: center;
 }
 .home-container .logo .hover-show.active .circle:nth-child(4) {
   position: absolute;
   transform: translateX(150%) translateY(150%);
-  background: url(../props/bootstrap.png);
+  background: url(../../Images/bootstrap.png);
   background-size: cover;
   background-position: center;
 }
 .home-container .logo .hover-show.active .circle:nth-child(5) {
   position: absolute;
   transform: translateY(210%);
-  background: url(../props/react.png);
+  background: url(../../Images/react.png);
   background-size: cover;
   background-position: center;
 }
 .home-container .logo .hover-show.active .circle:nth-child(6) {
   position: absolute;
   transform: translateX(-150%) translateY(150%);
-  background: url(../props/kotlin.png);
+  background: url(../../Images/kotlin.png);
   background-size: cover;
   background-position: center;
 }
 .home-container .logo .hover-show.active .circle:nth-child(7) {
   position: absolute;
   transform: translateX(-210%);
-  background: url(../props/c-plus-plus.png);
+  background: url(../../Images/python.png);
   background-size: cover;
   background-position: center;
 }
 .home-container .logo .hover-show.active .circle:nth-child(8) {
   position: absolute;
   transform: translateX(-150%) translateY(-150%);
-  background: url(../props/c-sharp.png);
+  background: url(../../Images/c-sharp.png);
   background-size: cover;
   background-position: center;
 }
