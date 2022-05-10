@@ -1,4 +1,4 @@
-import "./nav.css";
+import "./Navbar.css";
 import React from "react"
 
 import { AiOutlineHome } from "react-icons/ai"

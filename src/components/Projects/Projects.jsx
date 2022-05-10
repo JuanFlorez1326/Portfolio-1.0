@@ -1,7 +1,7 @@
-import "./members.css"
+import "./Projects.css"
 import React from "react"
 
-export const Members = () => {
+export const Projects = () => {
   return (
     <div id="members" className="container members-container">
       <h1 className="member-txt">Small Personal Projects</h1>
