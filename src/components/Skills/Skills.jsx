@@ -1,7 +1,7 @@
-import "./qualifications.css"
+import "./Skills.css"
 import React from "react"
 
-export const Qualifications = () => {
+export const Skills = () => {
   return (
     <div>
       <span className="quali-text">My Skills</span>
@@ -20,7 +20,7 @@ export const Qualifications = () => {
         </div>
         <div className="qualification">
           <div className="content bootstrap"></div>
-          <h1>Bootstrap</h1>
+          <h1>Flask</h1>
         </div>
         <div className="qualification">
           <div className="content react"></div>

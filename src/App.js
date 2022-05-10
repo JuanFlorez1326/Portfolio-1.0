@@ -1,12 +1,12 @@
 import React from "react"
 
-import { Header } from "./components/Header/header"
+import { Header } from "./components/Header/Header"
 import { Home } from "./components/Home/Home"
-import { About } from './components/AboutMe/about'
-import { Contact } from "./components/ContactMe/contact"
-import { Navbar } from "../src/components/nav/nav"
-import { Members } from "../src/components/members/members"
-import { Footer } from "./components/Footer/footer"
+import { About } from './components/AboutMe/About'
+import { Contact } from "./components/ContactMe/Contact"
+import { Navbar } from "./components/Navbar/Navbar"
+import { Projects } from "./components/Projects/Projects"
+import { Footer } from "./components/Footer/Footer"
 
 function App() {
   return (
@@ -17,7 +17,7 @@ function App() {
       <Navbar />
       <Home />
       <About />
-      <Members />
+      <Projects />
       <Contact />
       <Footer />
     </>

@@ -1,11 +1,11 @@
-import "./about.css"
+import "./About.css"
 import React from "react"
-import { Qualifications } from "../Skills/qualifications"
+import { Skills } from "../Skills/Skills"
 
 export const About = () => {
   return (
     <div id="about" className="container about-container">
-      <Qualifications />
+      <Skills />
     </div>
   );
 }

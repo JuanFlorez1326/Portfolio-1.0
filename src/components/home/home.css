@@ -66,6 +66,9 @@
   background-position: center;
   position: absolute;
   transform: translateY(-210%);
+
+  background-color:rgba(88, 117, 248, 0.151);
+  border:3px solid rgb(209, 217, 252);
 }
 .home-container .logo .hover-show.active .circle:nth-child(2) {
   position: absolute;
@@ -73,6 +76,9 @@
   background: url(../../Images/css.png);
   background-size: cover;
   background-position: center;
+
+  background-color:rgba(88, 117, 248, 0.151);
+  border:3px solid rgb(209, 217, 252);
 }
 .home-container .logo .hover-show.active .circle:nth-child(3) {
   position: absolute;
@@ -80,6 +86,9 @@
   background: url(../../Images/js.jpg);
   background-size: cover;
   background-position: center;
+
+  background-color:rgba(88, 117, 248, 0.151);
+  border:3px solid rgb(209, 217, 252);
 }
 .home-container .logo .hover-show.active .circle:nth-child(4) {
   position: absolute;
@@ -87,6 +96,9 @@
   background: url(../../Images/bootstrap.png);
   background-size: cover;
   background-position: center;
+
+  background-color:rgba(88, 117, 248, 0.151);
+  border:3px solid rgb(209, 217, 252);
 }
 .home-container .logo .hover-show.active .circle:nth-child(5) {
   position: absolute;
@@ -94,6 +106,9 @@
   background: url(../../Images/react.png);
   background-size: cover;
   background-position: center;
+
+  background-color:rgba(88, 117, 248, 0.151);
+  border:3px solid rgb(209, 217, 252);
 }
 .home-container .logo .hover-show.active .circle:nth-child(6) {
   position: absolute;
@@ -101,6 +116,9 @@
   background: url(../../Images/kotlin.png);
   background-size: cover;
   background-position: center;
+
+  background-color: rgba(88, 117, 248, 0.151);
+  border:3px solid rgb(209, 217, 252);
 }
 .home-container .logo .hover-show.active .circle:nth-child(7) {
   position: absolute;
@@ -108,6 +126,9 @@
   background: url(../../Images/python.png);
   background-size: cover;
   background-position: center;
+
+  background-color:rgba(88, 117, 248, 0.151);
+  border:3px solid rgb(209, 217, 252);
 }
 .home-container .logo .hover-show.active .circle:nth-child(8) {
   position: absolute;
@@ -115,6 +136,9 @@
   background: url(../../Images/c-sharp.png);
   background-size: cover;
   background-position: center;
+
+  background-color:rgba(88, 117, 248, 0.151);
+  border:3px solid rgb(209, 217, 252);
 }
 
 .home-container img {
