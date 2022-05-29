@@ -1,4 +1,4 @@
-import "./Footer.css"
+import "./footer.css"
 import React from "react"
 import { BsMouse } from "react-icons/bs"
 import { BsInstagram } from "react-icons/bs"

@@ -1,4 +1,4 @@
-import "./Contact.css"
+import "./contact.css"
 import React from "react"
 import { AiOutlineMail } from "react-icons/ai"
 import { AiOutlineWhatsApp } from "react-icons/ai"

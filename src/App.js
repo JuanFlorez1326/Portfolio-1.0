@@ -1,12 +1,12 @@
 import React from "react"
 
-import { Header } from "./components/Header/Header"
-import { Home } from "./components/Home/Home"
-import { About } from './components/AboutMe/About'
-import { Contact } from "./components/ContactMe/Contact"
+import { Header } from "./components/header/header"
+import { Home } from "./components/home/home"
+import { About } from './components/AboutMe/about'
+import { Contact } from "./components/ContactMe/contact"
 import { Navbar } from "./components/Navbar/Navbar"
 import { Projects } from "./components/Projects/Projects"
-import { Footer } from "./components/Footer/Footer"
+import { Footer } from "./components/footer/footer"
 
 function App() {
   return (

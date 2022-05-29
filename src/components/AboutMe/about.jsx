@@ -1,4 +1,4 @@
-import "./About.css"
+import "./about.css"
 import React from "react"
 import { Skills } from "../Skills/Skills"
 

@@ -1,7 +1,7 @@
-import './Home.css'
+import './home.css'
 import React from 'react'
 import img from '../../Images/img4.jpg'
-import { Buttons } from '../Button/button'
+import { Buttons } from '../button/button'
 import { BsMouse } from 'react-icons/bs'
 
 export const Home = () => {
