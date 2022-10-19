@@ -5,6 +5,18 @@ export const Projects = () => {
   return (
     <div id="members" className="container members-container">
       <h1 className="member-txt">Small Personal Projects</h1>
+
+      <div className="member member-3">
+        <div className="member-img"></div>
+        <div className="member-info">
+          <h1 className="name">Contact Book</h1>
+          <h3 className="position">Description</h3>
+          <h4 className="about">
+            Project created to list and save your contacts in a very simple way, this project was created in Angular 14, Express with TypeScript and as a MongoDB database.
+          </h4>
+          <a href="https://contactbook-front.netlify.app/#/home" target='_blank' rel='noopener noreferrer' className="contact-member"><span>View</span></a>
+        </div>
+      </div>
       
       <div className="member member-1">
         <div className="member-img"></div>
@@ -66,6 +78,7 @@ export const Projects = () => {
           <a href="https://juan-florez.netlify.app/" target='_blank' rel='noopener noreferrer' className="contact-member"><span>View</span></a>
         </div>
       </div>
+
     </div>
   )
 }
