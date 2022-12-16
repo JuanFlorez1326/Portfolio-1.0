@@ -31,7 +31,7 @@ export const Projects = () => {
             .NET, Swagger, MySQL database, the backend and frontend were 
             implemented in Azure, Azure DevOps and the database was uploaded on Amazon RDS.
           </h4>
-          <a href="http://ehr.herokuapp.com/#/" target='_blank' rel='noopener noreferrer' className="contact-member"><span>View</span></a>
+          <a href="https://easyhouserent.netlify.app/" target='_blank' rel='noopener noreferrer' className="contact-member"><span>View</span></a>
         </div>
       </div>
       
