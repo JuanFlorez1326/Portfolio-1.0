@@ -26,10 +26,10 @@ export const Projects = () => {
           <h1 className="name">Easy House Rent</h1>
           <h3 className="position">Description</h3>
           <h4 className="about">
-            Project for the purchase, rental and sale of houses online, this project was developed in React, 
-            Javascript, Socket.io, Cloudinary, CSS in the frontend part and in the backend part with C# with 
-            .NET and Swagger and MySQL database, the backend and frontend were implemented in Azure, Azure DevOps 
-            and the database was uploaded in Amazon RDS.
+            This project was developed in React, Javascript, Socket.io, Cloudinary, 
+            CSS in the frontend part and in the backend part with C# with 
+            .NET, Swagger, MySQL database, the backend and frontend were 
+            implemented in Azure, Azure DevOps and the database was uploaded on Amazon RDS.
           </h4>
           <a href="http://ehr.herokuapp.com/#/" target='_blank' rel='noopener noreferrer' className="contact-member"><span>View</span></a>
         </div>
