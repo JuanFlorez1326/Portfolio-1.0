@@ -18,7 +18,7 @@ export const Home = () => {
           <span className='circle'></span>
           <span className='circle'></span>
         </div>
-        <img src={img} alt='' />
+        <img src={img} alt='Me' />
       </div>
 
       <a href='#footer' className='scroll-down'>

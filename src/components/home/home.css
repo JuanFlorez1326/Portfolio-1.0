@@ -73,7 +73,7 @@
 .home-container .logo .hover-show.active .circle:nth-child(2) {
   position: absolute;
   transform: translateX(150%) translateY(-150%);
-  background: url(../../Images/css.png);
+  background: url(../../Images/scss.png);
   background-size: cover;
   background-position: center;
 
@@ -83,7 +83,7 @@
 .home-container .logo .hover-show.active .circle:nth-child(3) {
   position: absolute;
   transform: translateX(210%);
-  background: url(../../Images/js.jpg);
+  background: url(../../Images/ts.png);
   background-size: cover;
   background-position: center;
 
@@ -93,7 +93,7 @@
 .home-container .logo .hover-show.active .circle:nth-child(4) {
   position: absolute;
   transform: translateX(150%) translateY(150%);
-  background: url(../../Images/bootstrap.png);
+  background: url(../../Images/c-sharp.png);
   background-size: cover;
   background-position: center;
 
@@ -113,7 +113,7 @@
 .home-container .logo .hover-show.active .circle:nth-child(6) {
   position: absolute;
   transform: translateX(-150%) translateY(150%);
-  background: url(../../Images/kotlin.png);
+  background: url(../../Images/NestJS.png);
   background-size: cover;
   background-position: center;
 
@@ -123,7 +123,7 @@
 .home-container .logo .hover-show.active .circle:nth-child(7) {
   position: absolute;
   transform: translateX(-210%);
-  background: url(../../Images/python.png);
+  background: url(../../Images/express.png);
   background-size: cover;
   background-position: center;
 
@@ -133,7 +133,7 @@
 .home-container .logo .hover-show.active .circle:nth-child(8) {
   position: absolute;
   transform: translateX(-150%) translateY(-150%);
-  background: url(../../Images/c-sharp.png);
+  background: url(../../Images/Angular.png);
   background-size: cover;
   background-position: center;
 

@@ -40,56 +40,55 @@
 
 .qualifications-container .qualification h1 {
   font-size: 20px;
-  text-transform: uppercase;
-  margin-top: 20px;
+  margin-top: 10px;
 }
 
-.qualifications-container .qualification .content.html {
-  background: rgba(255, 255, 255, 0.103) url(../../Images/html.png);
+.qualifications-container .qualification .content.angular {
+  background: rgba(255, 255, 255, 0.103) url(../../Images/Angular.png);
   background-position: center;
-  background-size: 66px;
-}
-.qualifications-container .qualification .content.css {
-  background: rgba(255, 255, 255, 0.103) url(../../Images/css.png);
-  background-position: center;
-  background-size: cover;
-  background-size: 66px;
-}
-.qualifications-container .qualification .content.javascript {
-  background: rgba(255, 255, 255, 0.103) url(../../Images/js.jpg);
-  background-position: center;
-  background-size: cover;
-  background-size: 90px;
-}
-.qualifications-container .qualification .content.bootstrap {
-  background: rgba(255, 255, 255, 0.103) url(../../Images/bootstrap.png);
-  background-position: center;
-  background-size: cover;
-  background-size: 66px;
+  background-size:100px;
 }
 .qualifications-container .qualification .content.react {
   background: rgba(255, 255, 255, 0.103) url(../../Images/react.png);
   background-position: center;
   background-size: cover;
-  background-size: 66px;
+  background-size: 100px;
 }
-.qualifications-container .qualification .content.python {
-  background: rgba(255, 255, 255, 0.103) url(../../Images/python.png);
+.qualifications-container .qualification .content.nest {
+  background: rgba(255, 255, 255, 0.103) url(../../Images/NestJS.png);
   background-position: center;
   background-size: cover;
-  background-size: 66px;
+  background-size: 100px;
 }
-.qualifications-container .qualification .content.c-sharp {
+.qualifications-container .qualification .content.express {
+  background: rgba(255, 255, 255, 0.103) url(../../Images/express.png);
+  background-position: center;
+  background-size: cover;
+  background-size: 100px;
+}
+.qualifications-container .qualification .content.csharp {
   background: rgba(255, 255, 255, 0.103) url(../../Images/c-sharp.png);
   background-position: center;
   background-size: cover;
-  background-size: 66px;
+  background-size: 100px;
 }
-.qualifications-container .qualification .content.kotlin {
-  background: rgba(255, 255, 255, 0.103) url(../../Images/kotlin.png);
+.qualifications-container .qualification .content.ts {
+  background: rgba(255, 255, 255, 0.103) url(../../Images/ts.png);
   background-position: center;
   background-size: cover;
-  background-size: 66px;
+  background-size: 100px;
+}
+.qualifications-container .qualification .content.scss {
+  background: rgba(255, 255, 255, 0.103) url(../../Images/scss.png);
+  background-position: center;
+  background-size: cover;
+  background-size: 100px;
+}
+.qualifications-container .qualification .content.html {
+  background: rgba(255, 255, 255, 0.103) url(../../Images/html.png);
+  background-position: center;
+  background-size: cover;
+  background-size: 100px;
 }
 
 @media (max-width: 820px) {
