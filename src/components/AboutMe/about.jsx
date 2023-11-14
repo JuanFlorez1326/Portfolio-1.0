@@ -4,7 +4,7 @@ import { Skills } from "../Skills/Skills"
 
 export const About = () => {
   return (
-    <div id="about" className="container about-container">
+    <div id="about" className="about-container">
       <Skills />
     </div>
   );
