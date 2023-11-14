@@ -10,18 +10,13 @@ ReactDOM.render(
 
 const toggle = document.querySelector('.hover-show');
 
-toggle.addEventListener('click', () => {
-  toggle.classList.toggle('active');
-});
+toggle.classList.toggle('active');
 
 let Icons = document.querySelectorAll('.navigation .icon');
 
 Icons.forEach((icon) => {
-  icon.addEventListener('click', () => {
-    changeactive();
-
-    icon.classList.add('active-nav');
-  });
+  changeactive();
+  icon.classList.add('active-nav');
 });
 
 function changeactive() {
