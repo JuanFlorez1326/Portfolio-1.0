@@ -31,10 +31,11 @@ export const Home = () => {
       <h2>
         <span>About Me</span> <br />
         <p>
-          I am a junior programmer
-          from Armenia - Quindio - Colombia.
-          With motivation to continue perfecting
-          my skills and grow professionally.
+          Hello! I am Juan Florez, a passionate Full Stack Web Developer, my focus is on developing efficient and aesthetic web solutions, 
+          using technologies such as Angular, NestJs, TypeScript, JavaScript, SCSS, HTML, CSS among other technologies. My ability to balance 
+          functionality and design is reflected in projects ranging from small businesses to international companies. I excel in collaborative environments, 
+          believing in the importance of effective communication for team success. My commitment is not only limited to functional code, but also to continuous 
+          improvement and learning new technologies.
         </p>
       </h2>
 

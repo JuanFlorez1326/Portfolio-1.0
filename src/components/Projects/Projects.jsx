@@ -9,20 +9,6 @@ export const Projects = () => {
       <div className="member member-3">
         <div className="member-img"></div>
         <div className="member-info">
-          <h1 className="name">Contact Book</h1>
-          <h3 className="position">Description</h3>
-          <h4 className="about">
-            Project created to list and save your contacts in a very simple way, 
-            this project was created in Angular 14, Express with TypeScript and 
-            as a MongoDB database.
-          </h4>
-          <a href="https://contactbook-front.netlify.app/#/home" target='_blank' rel='noopener noreferrer' className="contact-member"><span>View</span></a>
-        </div>
-      </div>
-
-      <div className="member member-3">
-        <div className="member-img"></div>
-        <div className="member-info">
           <h1 className="name">Easy House Rent</h1>
           <h3 className="position">Description</h3>
           <h4 className="about">
@@ -32,18 +18,6 @@ export const Projects = () => {
             implemented in Azure, Azure DevOps and the database was uploaded on Amazon RDS.
           </h4>
           <a href="https://easyhouserent.netlify.app/" target='_blank' rel='noopener noreferrer' className="contact-member"><span>View</span></a>
-        </div>
-      </div>
-      
-      <div className="member member-1">
-        <div className="member-img"></div>
-        <div className="member-info">
-          <h1 className="name">Tasks</h1>
-          <h3 className="position">Description</h3>
-          <h4 className="about">
-            Project to manage pending tasks, project made in React.
-          </h4>
-          <a href="https://tasks-jsx.netlify.app/" target='_blank' rel='noopener noreferrer' className="contact-member"><span>View</span></a>
         </div>
       </div>
 
@@ -63,18 +37,6 @@ export const Projects = () => {
       <div className="member member-3">
         <div className="member-img"></div>
         <div className="member-info">
-          <h1 className="name">Anime Market</h1>
-          <h3 className="position">Description</h3>
-          <h4 className="about">
-            Small market for anime figures made in JavaScript.
-          </h4>
-          <a href="https://anime-market.netlify.app" target='_blank' rel='noopener noreferrer' className="contact-member"><span>View</span></a>
-        </div>
-      </div>
-
-      <div className="member member-3">
-        <div className="member-img"></div>
-        <div className="member-info">
           <h1 className="name">Software Quality</h1>
           <h3 className="position">Description</h3>
           <h4 className="about">
@@ -83,19 +45,6 @@ export const Projects = () => {
           <a href="https://software-quality.netlify.app/" target='_blank' rel='noopener noreferrer' className="contact-member"><span>View</span></a>
         </div>
       </div>
-
-      <div className="member member-3">
-        <div className="member-img"></div>
-        <div className="member-info">
-          <h1 className="name">Firts Portfolio</h1>
-          <h3 className="position">Description</h3>
-          <h4 className="about">
-            First personal portfolio made in React.
-          </h4>
-          <a href="https://juan-florez.netlify.app/" target='_blank' rel='noopener noreferrer' className="contact-member"><span>View</span></a>
-        </div>
-      </div>
-
     </div>
   )
 }

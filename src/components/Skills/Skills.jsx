@@ -11,12 +11,16 @@ export const Skills = () => {
           <h1>Angular</h1>
         </div>
         <div className="qualification">
-          <div className="content react"></div>
-          <h1>React</h1>
-        </div>
-        <div className="qualification">
           <div className="content nest"></div>
           <h1>NestJS</h1>
+        </div>
+        <div className="qualification">
+          <div className="content ts"></div>
+          <h1>TypeScript</h1>
+        </div>
+        <div className="qualification">
+          <div className="content react"></div>
+          <h1>React</h1>
         </div>
         <div className="qualification">
           <div className="content express"></div>
@@ -25,10 +29,6 @@ export const Skills = () => {
         <div className="qualification">
           <div className="content csharp"></div>
           <h1>C-Sharp</h1>
-        </div>
-        <div className="qualification">
-          <div className="content ts"></div>
-          <h1>TypeScript</h1>
         </div>
         <div className="qualification">
           <div className="content scss"></div>
