@@ -27,22 +27,10 @@ export const Projects = () => {
           <h1 className="name">Rick And Morty</h1>
           <h3 className="position">Description</h3>
           <h4 className="about">
-            Consumption of a Rick And Morty API that shows some cards through a search engine,
-            project carried out in React
+            Consumption of a Rick And Morty API that shows some cards of the characters, 
+            locations and episodes, a project carried out in Angualar.
           </h4>
-          <a href="https://api-rick-and-morty-search.netlify.app" target='_blank' rel='noopener noreferrer' className="contact-member"><span>View</span></a>
-        </div>
-      </div>
-
-      <div className="member member-3">
-        <div className="member-img"></div>
-        <div className="member-info">
-          <h1 className="name">Software Quality</h1>
-          <h3 className="position">Description</h3>
-          <h4 className="about">
-            Project on the Quality of Software carried out in HTML and CSS.
-          </h4>
-          <a href="https://software-quality.netlify.app/" target='_blank' rel='noopener noreferrer' className="contact-member"><span>View</span></a>
+          <a href="https://rick-and-morty-angular-app.vercel.app" target='_blank' rel='noopener noreferrer' className="contact-member"><span>View</span></a>
         </div>
       </div>
     </div>
