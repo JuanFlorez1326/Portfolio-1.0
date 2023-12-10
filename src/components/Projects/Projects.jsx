@@ -13,9 +13,7 @@ export const Projects = () => {
           <h3 className="position">Description</h3>
           <h4 className="about">
             This project was developed in React, Javascript, Socket.io, Cloudinary, 
-            CSS in the frontend part and in the backend part with C# with 
-            .NET, Swagger, MySQL database, the backend and frontend were 
-            implemented in Azure, Azure DevOps and the database was uploaded on Amazon RDS.
+            CSS in the frontend and in the backend with C# with .NET, Swagger, MySQL database.
           </h4>
           <a href="https://easyhouserent.netlify.app/" target='_blank' rel='noopener noreferrer' className="contact-member"><span>View</span></a>
         </div>
