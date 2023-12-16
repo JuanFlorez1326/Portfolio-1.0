@@ -6,7 +6,7 @@ export const Projects = () => {
     <div id="members" className="container members-container">
       <h1 className="member-txt">Small Personal Projects</h1>
 
-      <div className="member member-3">
+      <div className="member">
         <div className="member-img"></div>
         <div className="member-info">
           <h1 className="name">Easy House Rent</h1>
@@ -19,7 +19,7 @@ export const Projects = () => {
         </div>
       </div>
 
-      <div className="member member-2">
+      <div className="member">
         <div className="member-img"></div>
         <div className="member-info">
           <h1 className="name">Rick And Morty</h1>

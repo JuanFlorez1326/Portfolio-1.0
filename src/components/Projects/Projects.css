@@ -83,7 +83,6 @@
     align-items: flex-start;
     min-height: 60vh;
     margin-top: 50px;
-    width: 90%;
   }
 
   .members-container .member {
@@ -154,7 +153,8 @@
     flex-direction: column;
     justify-content: flex-start;
     align-items: flex-start;
-    min-height: 100vh;
+    min-height: 50vh;
+    width: 100%;
     margin-top: 100px;
   }
 
@@ -226,6 +226,7 @@
     flex-direction: column;
     justify-content: flex-start;
     align-items: flex-start;
+    width: 100%;
     min-height: 50vh;
     margin-top: 50px;
   }
@@ -298,9 +299,9 @@
     flex-direction: column;
     justify-content: flex-start;
     align-items: flex-start;
-    min-height: 60vh;
+    min-height: 50vh;
+    width: 100%;
     margin-top: 50px;
-    padding: 10px;
   }
 
   .members-container .member {
@@ -371,9 +372,9 @@
     flex-direction: column;
     justify-content: flex-start;
     align-items: flex-start;
-    min-height: 100vh;
+    min-height: 50vh;
+    width: 100%;
     margin-top: 10px;
-    padding: 10px;
   }
 
   .members-container .member {
